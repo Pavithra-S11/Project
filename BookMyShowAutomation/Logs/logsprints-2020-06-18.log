@@ -1,0 +1,7 @@
+20:40:18.933 [main] INFO  testCases.TestCases - Sign-in successful
+20:40:35.928 [main] INFO  testCases.TestCases - Sports is clicked
+20:40:38.973 [main] INFO  testCases.TestCases - Page Title is stored in a string
+20:40:47.261 [main] INFO  testCases.TestCases - Expected Results matches Actual Results
+20:40:47.541 [main] INFO  testCases.TestCases - Weekend is clicked
+20:40:53.717 [main] INFO  testCases.TestCases - Expected Results matches Actual Results
+20:40:56.878 [main] INFO  testCases.TestCases - Price Range is clicked
